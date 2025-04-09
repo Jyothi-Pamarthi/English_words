@@ -1,0 +1,4 @@
+bread	-- rotte
+cake	-- rotte
+cheese	-- junnu
+cocoa   -- oka rakamaina paniyam
